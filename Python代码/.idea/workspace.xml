@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9929ca83-c94a-4aa0-9ecd-61e114d1f829" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1862084417">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="51" />
+          <entry key="py" value="9922" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="Python" value="9922" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="RGV" value="1" />
+          <entry key="py" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/遗传算法_两道工序_第1组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="493" column="17" lean-forward="true" selection-end-line="510" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/遗传算法_两道工序_第2组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="490" column="16" lean-forward="true" selection-end-line="510" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/遗传算法_两道工序_第3组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="487" column="30" selection-start-line="487" selection-start-column="30" selection-end-line="487" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CROMO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="31" lean-forward="true" selection-end-line="14" />
+              <folding>
+                <marker date="1537076285128" expanded="true" signature="28:33" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第2组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+              <folding>
+                <marker date="1537020467230" expanded="true" signature="169:174" ph="..." />
+                <marker date="1537020467230" expanded="true" signature="819:1121" ph="..." />
+                <marker date="1537020467230" expanded="true" signature="1720:1956" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第3组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POPULATION.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-364">
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <marker date="1537083886214" expanded="true" signature="474:475" ph="..." />
+                <marker date="1537083886214" expanded="true" signature="474:479" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/穷举结果_有两道工序的产品_第3组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="3" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#783#910#0" />
+                <element signature="e#941#1044#0" />
+                <element signature="e#1070#1568#0" />
+                <element signature="e#1598#2624#0" />
+                <element signature="e#2651#3151#0" />
+                <element signature="e#3182#4207#0" />
+                <element signature="e#4232#5701#0" />
+                <element signature="e#5829#12225#0" />
+                <element signature="e#12286#12539#0" />
+                <element signature="e#12653#14432#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/一道工序计算.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_第一组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_第二组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_第三组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第一组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第2组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第1组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_总等待时间最长优先_第一组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_总等待时间最长优先_第2组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_总等待时间最长优先_第3组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_总等待时间最长优先_第1组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_第1组.py" />
+        <option value="$PROJECT_DIR$/CNC.py" />
+        <option value="$PROJECT_DIR$/RGV.py" />
+        <option value="$PROJECT_DIR$/一道工序计算1s迭代.py" />
+        <option value="$PROJECT_DIR$/10to2.py" />
+        <option value="$PROJECT_DIR$/有两道工序的产品_第一组.py" />
+        <option value="$PROJECT_DIR$/穷举_有两道工序的产品_第2组.py" />
+        <option value="$PROJECT_DIR$/穷举结果_有两道工序的产品_第2组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第3组.py" />
+        <option value="$PROJECT_DIR$/穷举_有两道工序的产品_第3组.py" />
+        <option value="$PROJECT_DIR$/只有一道工序的产品_第3组.py" />
+        <option value="$PROJECT_DIR$/穷举结果_有两道工序的产品_第1组.py" />
+        <option value="$PROJECT_DIR$/穷举结果_有两道工序的产品_第3组.py" />
+        <option value="$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第2组.py" />
+        <option value="$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第1组.py" />
+        <option value="$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第3组.py" />
+        <option value="$PROJECT_DIR$/CROMO.py" />
+        <option value="$PROJECT_DIR$/Poulation.py" />
+        <option value="$PROJECT_DIR$/遗传算法_两道工序_第1组.py" />
+        <option value="$PROJECT_DIR$/POPULATION.py" />
+        <option value="$PROJECT_DIR$/遗传算法_两道工序_第2组.py" />
+        <option value="$PROJECT_DIR$/遗传算法_两道工序_第3组.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.遗传算法_两道工序_第1组">
+    <configuration name="遗传算法_两道工序_第1组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/遗传算法_两道工序_第1组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="穷举结果_有两道工序的产品_第3组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/穷举结果_有两道工序的产品_第3组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="穷举_有两道工序的产品_第3组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/穷举_有两道工序的产品_第3组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="穷举结果_两道工序_考虑故障_第1组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第1组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="穷举结果_两道工序_考虑故障_第3组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第3组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.穷举结果_两道工序_考虑故障_第3组" />
+      <item itemvalue="Python.穷举结果_有两道工序的产品_第3组" />
+      <item itemvalue="Python.遗传算法_两道工序_第1组" />
+      <item itemvalue="Python.穷举结果_两道工序_考虑故障_第1组" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.遗传算法_两道工序_第1组" />
+        <item itemvalue="Python.穷举结果_两道工序_考虑故障_第1组" />
+        <item itemvalue="Python.穷举结果_两道工序_考虑故障_第3组" />
+        <item itemvalue="Python.穷举结果_有两道工序的产品_第3组" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9929ca83-c94a-4aa0-9ecd-61e114d1f829" name="Default Changelist" comment="" />
+      <created>1536913328050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536913328050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287858" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32196453" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287858" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3287858" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RGV" />
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第2组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-end-line="238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_总等待时间最短优先_第2组.py" />
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_总等待时间最短优先_第3组.py" />
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_总等待时间最长优先_第1组.py" />
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_总等待时间最短优先_第1组.py" />
+    <entry file="file://$PROJECT_DIR$/一道工序计算1s迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="183" column="37" selection-start-line="183" selection-start-column="37" selection-end-line="183" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_第1组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="195" column="39" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_第2组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举_有两道工序的产品_第3组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_第3组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="188" column="29" lean-forward="true" selection-start-line="188" selection-start-column="29" selection-end-line="188" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第3组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/只有一道工序的产品_考虑故障_1s迭代_第1组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="115" column="35" selection-start-line="114" selection-end-line="115" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举结果_有两道工序的产品_第1组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="379" column="47" selection-start-line="379" selection-start-column="47" selection-end-line="379" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举结果_有两道工序的产品_第2组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举_有两道工序的产品_第1组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7470">
+          <caret line="499" column="17" selection-start-line="499" selection-start-column="17" selection-end-line="499" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1537027968806" expanded="true" signature="4225:5702" ph="..." />
+            <marker date="1537027968806" expanded="false" signature="5724:5729" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10to2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第1组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7965">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举_有两道工序的产品_第2组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="529" column="22" selection-start-line="529" selection-start-column="22" selection-end-line="529" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#517#755#0" />
+            <element signature="e#781#908#0" />
+            <element signature="e#939#1042#0" />
+            <element signature="e#1068#1566#0" />
+            <element signature="e#1596#2622#0" />
+            <element signature="e#2649#3149#0" />
+            <element signature="e#3180#4205#0" />
+            <element signature="e#4230#5699#0" />
+            <element signature="e#5827#12223#0" />
+            <element signature="e#12284#12537#0" />
+            <element signature="e#12651#14430#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CROMO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" lean-forward="true" selection-end-line="14" />
+          <folding>
+            <marker date="1537076285128" expanded="true" signature="28:33" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+          <folding>
+            <marker date="1537020467230" expanded="true" signature="169:174" ph="..." />
+            <marker date="1537020467230" expanded="true" signature="819:1121" ph="..." />
+            <marker date="1537020467230" expanded="true" signature="1720:1956" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举结果_有两道工序的产品_第3组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="3" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#783#910#0" />
+            <element signature="e#941#1044#0" />
+            <element signature="e#1070#1568#0" />
+            <element signature="e#1598#2624#0" />
+            <element signature="e#2651#3151#0" />
+            <element signature="e#3182#4207#0" />
+            <element signature="e#4232#5701#0" />
+            <element signature="e#5829#12225#0" />
+            <element signature="e#12286#12539#0" />
+            <element signature="e#12653#14432#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POPULATION.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1537083886214" expanded="true" signature="474:475" ph="..." />
+            <marker date="1537083886214" expanded="true" signature="474:479" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/遗传算法_两道工序_第1组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="493" column="17" lean-forward="true" selection-end-line="510" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第2组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/遗传算法_两道工序_第2组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="490" column="16" lean-forward="true" selection-end-line="510" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/穷举结果_两道工序_考虑故障_第3组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/遗传算法_两道工序_第3组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="487" column="30" selection-start-line="487" selection-start-column="30" selection-end-line="487" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
